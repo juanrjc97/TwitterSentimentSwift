@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "5429544ea93914c2ffb6c6fbbc91de30--futurama-simpsons-the-simpsons.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
